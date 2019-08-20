@@ -5,7 +5,11 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<p>TO\nMY FRIEND\nC H T\nIN GRATITUDE FOR\nHIS CONTINUED HELP IN THE\nPREPARATION OF\nTHIS BOOK\n<a href=\"images/el001.png\" title=\"CANTERBURY PILGRIMS _From Royal MS., 18 D.ii, in the British Museum_\">Illustration: CANTERBURY PILGRIMS From Royal MS., 18 D.ii, in the British Museum</a></p>"
+    "innerHtml": "<p>TO\nMY FRIEND\nC H T\nIN GRATITUDE FOR\nHIS CONTINUED HELP IN THE\nPREPARATION OF\nTHIS BOOK</p>"
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el001.png"
   },
   {
     "tag": "hr",
@@ -304,7 +308,11 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<pre><code>                                                ... Hie dygel lond  </code></pre>\n<p>Warigeath, wulf-hleothu, windige næssas,<br>    Frecne fen-gelad, thær fyrgen-stream<br>Under næssa genipu nither gewiteth,<br>Flod under foldan. Nis thæt feor heonon,<br>Mil-gemearces, thaet se mere standeth,<br>Ofer thæm hongiath hrinde bearwas<br>                                  ... They (a) darksome land<br>Ward (inhabit), wolf cliffs, windy nesses,<br>Frightful fen paths where mountain stream<br>Under nesses' mists nether (downward) wanders,<br>A flood under earth. It is not far hence,<br>By mile measure, that the mere stands,<br>Over which hang rimy groves.<br><a href=\"images/el003.png\">Illustration: A\nPAGE FROM THE MANUSCRIPT OF BEOWULF</a>  </p>"
+    "innerHtml": "<pre><code>                                                ... Hie dygel lond  </code></pre>\n<p>Warigeath, wulf-hleothu, windige næssas,<br>    Frecne fen-gelad, thær fyrgen-stream<br>Under næssa genipu nither gewiteth,<br>Flod under foldan. Nis thæt feor heonon,<br>Mil-gemearces, thaet se mere standeth,<br>Ofer thæm hongiath hrinde bearwas<br>                                  ... They (a) darksome land<br>Ward (inhabit), wolf cliffs, windy nesses,<br>Frightful fen paths where mountain stream<br>Under nesses' mists nether (downward) wanders,<br>A flood under earth. It is not far hence,<br>By mile measure, that the mere stands,<br>Over which hang rimy groves.  </p>"
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el003.png"
   },
   {
     "tag": "hr",
@@ -355,8 +363,8 @@
     "innerHtml": "We have now read some of our earliest records, and have been surprised, perhaps, that men who are generally described in the histories as savage fighters and freebooters could produce such excellent poetry. It is the object of the study of all literature to make us better acquainted with men,—not simply with their deeds, which is the function of history, but with the dreams and ideals which underlie all their actions. So a reading of this early Anglo-Saxon poetry not only makes us acquainted, but also leads to a profound respect for the men who were our ancestors. Before we study more of their literature it is well to glance briefly at their life and language."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/%7B0049%7D.jpg\">{0049}</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/%7B0049%7D.jpg"
   },
   {
     "tag": "ul",
@@ -412,7 +420,11 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<p>Her Hengest and Æsc his sunu gefuhton with Bryttas, on thaere stowe the is gecweden Creccanford, and thær ofslogon feower thusenda wera. And tha Bryttas tha forleton Cent-lond, and mid myclum ege flugon to Lundenbyrig. (At this time Hengest and Aesc, his son, fought against the Britons at the place which is called Crayford and there slew four thousand men. And then the Britons forsook Kentland, and with much fear fled to London town.) \n<a href=\"images/el004.png\">Illustration:\nSTONEHENGE, ON SALISBURY PLAIN Probably the ruins of a temple of the native\nBritons</a><br>STONEHENGE, ON SALISBURY PLAIN Probably the ruins of a temple of the native Britons</p>"
+    "innerHtml": "<p>Her Hengest and Æsc his sunu gefuhton with Bryttas, on thaere stowe the is gecweden Creccanford, and thær ofslogon feower thusenda wera. And tha Bryttas tha forleton Cent-lond, and mid myclum ege flugon to Lundenbyrig. (At this time Hengest and Aesc, his son, fought against the Britons at the place which is called Crayford and there slew four thousand men. And then the Britons forsook Kentland, and with much fear fled to London town.) </p>"
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el004.png"
   },
   {
     "tag": "p",
@@ -435,8 +447,8 @@
     "innerHtml": "Iii. Christian Writers Of The Anglo-saxon Period"
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/%7B0061%7D.jpg\">{0061}</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/%7B0061%7D.jpg"
   },
   {
     "tag": "p",
@@ -447,8 +459,8 @@
     "innerHtml": "The coming of Christianity meant not simply a new life and leader for England; it meant also the wealth of a new language. The scop is now replaced by the literary monk; and that monk, though he lives among common people and speaks with the English tongue, has behind him all the culture and literary resources of the Latin language. The effect is seen instantly in our early prose and poetry."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el005.png\">Illustration: THE MANUSCRIPT BOOK After the painting by\nJohn W. Alexander From a Copley Print. Copyright, 1899, Curtis and Cameron</a><br>THE MANUSCRIPT BOOK After the painting by John W. Alexander From a Copley Print. Copyright, 1899, Curtis and Cameron"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el005.png"
   },
   {
     "tag": "ul",
@@ -459,8 +471,8 @@
     }
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el006.png\">Illustration: INITIAL LETTER OF A MS.\nCOPY OF ST. LUKE'S GOSPEL, CIR. 700 A.D.</a><br>INITIAL LETTER OF A MS. COPY OF ST. LUKE'S GOSPEL, <em>CIR</em>. 700 A.D."
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el006.png"
   },
   {
     "tag": "p",
@@ -471,16 +483,16 @@
     "innerHtml": "The Venerable Bede, as he is generally called, our first great scholar and \"the father of our English learning,\" wrote almost exclusively in Latin, his last work, the translation of the Gospel of John into Anglo-Saxon, having been unfortunately lost. Much to our regret, therefore, his books and the story of his gentle, heroic life must be excluded from this history of our literature. His works, over forty in number, covered the whole field of human knowledge in his day, and were so admirably written that they were widely copied as text-books, or rather manuscripts, in nearly all the monastery schools of Europe."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/%7B8063%7D.jpg\">{8063} </a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/%7B8063%7D.jpg"
   },
   {
     "tag": "p",
     "innerHtml": "The First History of EnglandThe work most important to us is the <em>Ecclesiastical History of the English People</em>. It is a fascinating history to read even now, with its curious combination of accurate scholarship and immense credulity. In all strictly historical matters Bede is a model. Every known authority on the subject, from Pliny to Gildas, was carefully considered; every learned pilgrim to Rome was commissioned by Bede to ransack the archives and to make copies of papal decrees and royal letters; and to these were added the testimony of abbots who could speak from personal knowledge of events or repeat the traditions of their several monasteries."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el007.png\">Illustration: RUINS AT WHITBY</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el007.png"
   },
   {
     "tag": "hr",
@@ -587,8 +599,8 @@
     }
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el008.png\">Illustration:\nCÆDMON CROSS AT WHITBY ABBEY</a><br>CÆDMON CROSS AT WHITBY ABBEY"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el008.png"
   },
   {
     "tag": "p",
@@ -599,8 +611,8 @@
     "innerHtml": "<p>\"Every craft and every power soon grows<br>old and is passed over and forgotten, if it<br>be without wisdom.... This is now to be<br>said, that whilst I live I wish to live nobly,<br>and after life to leave to the men who come<br>after me a memory of good works.\"<br>So wrote the great Alfred, looking back over his heroic life. That he lived nobly none can doubt who reads the history of the greatest of Anglo-Saxon kings; and his good works include, among others, the education of half a country, the salvage of a noble native literature, and the creation of the first English prose.</p>"
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/%7B8071%7D.jpg\">{8071} </a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/%7B8071%7D.jpg"
   },
   {
     "tag": "ul",
@@ -774,8 +786,8 @@
     }
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el009.png\">Illustration: LEIF ERICSON'S VESSEL</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el009.png"
   },
   {
     "tag": "hr",
@@ -810,8 +822,8 @@
     "innerHtml": "Ii. Literature Of The Norman Period"
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el010.png\">Illustration: CANTERBURY CATHEDRAL AS IT\nWAS COMPLETED LONG AFTER THE CONQUEST</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el010.png"
   },
   {
     "tag": "hr",
@@ -867,8 +879,8 @@
     "innerHtml": "FormThough the metrical romances varied much in form and subject-matter, the general type remains the same,—a long rambling poem or series of poems treating of love or knightly adventure or both. Its hero is a knight; its characters are fair ladies in distress, warriors in armor, giants, dragons, enchanters, and various enemies of Church and State; and its emphasis is almost invariably on love, religion, and duty as defined by chivalry. In the French originals of these romances the lines were a definite length, the meter exact, and rimes and assonances were both used to give melody. In England this metrical system came in contact with the uneven lines, the strong accent and alliteration of the native songs; and it is due to the gradual union of the two systems, French and Saxon, that our English became capable of the melody and amazing variety of verse forms which first find expression in Chaucer's poetry."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/%7B0101%7D.jpg\">{0101}</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/%7B0101%7D.jpg"
   },
   {
     "tag": "p",
@@ -951,8 +963,8 @@
     "innerHtml": "In these songs speaks the heart of the English folk. There is lawlessness indeed; but this seems justified by the oppression of the times and by the barbarous severity of the game laws. An intense hatred of shams and injustice lurks in every song; but the hatred is saved from bitterness by the humor with which captives, especially rich churchmen, are solemnly lectured by the bandits, while they squirm at sight of devilish tortures prepared before their eyes in order to make them give up their golden purses; and the scene generally ends in a bit of wild horse-play. There is fighting enough, and ambush and sudden death lurk at every turn of the lonely roads; but there is also a rough, honest chivalry for women, and a generous sharing of plunder with the poor and needy. All literature is but a dream expressed, and \"Robin Hood\" is the dream of an ignorant and oppressed but essentially noble people, struggling and determined to be free."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration: REMAINS OF THE SCRIPTORIUM OF FOUNTAINS ABBEY\n(Fourteenth century) \nREMAINS OF THE SCRIPTORIUM OF FOUNTAINS ABBEY (Fourteenth century)"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el011.png"
   },
   {
     "tag": "p",
@@ -1101,7 +1113,11 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<pre><code>                              'What man artow?' quod he;  </code></pre>\n<p>'Thou lokest as thou woldest finde an hare,<br>For ever upon the ground I see thee stare.<br>Approchë neer, and loke up merily....<br>He semeth elvish by his contenaunce.'<br>                          (The Host's description of Chaucer,<br>                                                  Prologue, <em>Sir Thopas</em>)  \n<a href=\"images/el012.png\">Illustration:\nGEOFFREY CHAUCER After the Rawlinson Pastel Portrait, Oxford</a><br>GEOFFREY CHAUCER After the Rawlinson Pastel Portrait, Oxford</p>"
+    "innerHtml": "<pre><code>                              'What man artow?' quod he;  </code></pre>\n<p>'Thou lokest as thou woldest finde an hare,<br>For ever upon the ground I see thee stare.<br>Approchë neer, and loke up merily....<br>He semeth elvish by his contenaunce.'<br>                          (The Host's description of Chaucer,<br>                                                  Prologue, <em>Sir Thopas</em>)  </p>"
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el012.png"
   },
   {
     "tag": "ul",
@@ -1188,8 +1204,8 @@
     }
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el013.png\">Illustration: TABARD INN</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el013.png"
   },
   {
     "tag": "hr",
@@ -1321,8 +1337,8 @@
     "innerHtml": "Though Wyclif's works are now unread, except by occasional scholars, he still occupies a very high place in our literature. His translation of the Bible was slowly copied all over England, and so fixed a national standard of English prose to replace the various dialects. Portions of this translation, in the form of favorite passages from Scripture, were copied by thousands, and for the first time in our history a standard of pure English was established in the homes of the common people."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el014.png\">Illustration: JOHN\nWYCLIF</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el014.png"
   },
   {
     "tag": "hr",
@@ -1501,16 +1517,16 @@
     "innerHtml": "The uselessness of the terrific struggle on French soil is shown by the rapidity with which all its results were swept away. When Henry died in 1422, leaving his son heir to the crowns of France and England, a magnificent recumbent statue with head of pure silver was placed in Westminster Abbey to commemorate his victories. The silver head was presently stolen, and the loss is typical of all that he had struggled for. His son, Henry VI, was but the shadow of a king, a puppet in the hands of powerful nobles, who seized the power of England and turned it to self-destruction. Meanwhile all his foreign possessions were won back by the French under the magic leadership of Joan of Arc. Cade's Rebellion (1450) and the bloody Wars of the Roses (1455-1485) are names to show how the energy of England was violently destroying itself, like a great engine that has lost its balance wheel. The frightful reign of Richard III followed, which had, however, this redeeming quality, that it marked the end of civil wars and the self-destruction of feudalism, and made possible a new growth of English national sentiment under the popular Tudors."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/%7B0124%7D.jpg\">{0124}</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/%7B0124%7D.jpg"
   },
   {
     "tag": "p",
     "innerHtml": "In the long reign of Henry VIII the changes are less violent, but have more purpose and significance. His age is marked by a steady increase in the national power at home and abroad, by the entrance of the Reformation \"by a side door,\" and by the final separation of England from all ecclesiastical bondage in Parliament's famous Act of Supremacy. In previous reigns chivalry and the old feudal system had practically been banished; now monasticism, the third mediæval institution with its mixed evil and good, received its death-blow in the wholesale suppression of the monasteries and the removal of abbots from the House of Lords. Notwithstanding the evil character of the king and the hypocrisy of proclaiming such a creature the head of any church or the defender of any faith, we acquiesce silently in Stubb's declaration that \"the world owes some of its greatest debts to men from whose memory the world recoils.\""
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el015.png\">Illustration: SPECIMEN OF CAXTON'S PRINTING IN THE YEAR 1486</a><br>SPECIMEN OF CAXTON'S PRINTING IN THE YEAR 1486"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el015.png"
   },
   {
     "tag": "p",
@@ -1715,8 +1731,8 @@
     "innerHtml": "<p><em>(Cuddie)</em><br>        \"Piers, I have pipéd erst so long with pain<br>        That all mine oaten reeds been rent and wore,<br>        And my poor Muse hath spent her sparéd store,<br>        Yet little good hath got, and much less gain.<br>        Such pleasaunce makes the grasshopper so poor,<br>        And ligge so layd when winter doth her strain.<br>        The dapper ditties that I wont devise,<br>        To feed youth's fancy, and the flocking fry<br>        Delghten much—what I the bet forthy?<br>        They han the pleasure, I a slender prize:<br>        I beat the bush, the birds to them do fly:<br>        What good thereof to Cuddie can arise?<br>(<em>Piers</em>)  \n        Cuddie, the praise is better than the price,<br>        The glory eke much greater than the gain:...\"<br>                        <em>Shepherd's Calendar</em>, October<br>In these words, with their sorrowful suggestion of Deor, Spenser reveals his own heart, unconsciously perhaps, as no biographer could possibly do. His life and work seem to center about three great influences, summed up in three names: Cambridge, where he grew acquainted with the classics and the Italian poets; London, where he experienced the glamour and the disappointment of court life; and Ireland, which steeped him in the beauty and imagery of old Celtic poetry and first gave him leisure to write his masterpiece.</p>"
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el016.png\">Illustration: EDMUND SPENSER</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el016.png"
   },
   {
     "tag": "hr",
@@ -2173,8 +2189,8 @@
     "innerHtml": "The Wonder of ShakespeareOne who reads a few of Shakespeare's great plays and then the meager story of his life is generally filled with a vague wonder. Here is an unknown country boy, poor and poorly educated according to the standards of his age, who arrives at the great city of London and goes to work at odd jobs in a theater. In a year or two he is associated with scholars and dramatists, the masters of their age, writing plays of kings and clowns, of gentlemen and heroes and noble women, all of whose lives he seems to know by intimate association. In a few years more he leads all that brilliant group of poets and dramatists who have given undying glory to the Age of Elizabeth. Play after play runs from his pen, mighty dramas of human life and character following one another so rapidly that good work seems impossible; yet they stand the test of time, and their poetry is still unrivaled in any language. For all this great work the author apparently cares little, since he makes no attempt to collect or preserve his writings. A thousand scholars have ever since been busy collecting, identifying, classifying the works which this magnificent workman tossed aside so carelessly when he abandoned the drama and retired to his native village. He has a marvelously imaginative and creative mind; but he invents few, if any, new plots or stories. He simply takes an old play or an old poem, makes it over quickly, and lo! this old familiar material glows with the deepest thoughts and the tenderest feelings that ennoble our humanity; and each new generation of men finds it more wonderful than the last. How did he do it? That is still an unanswered question and the source of our wonder."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el017.png\">Illustration: WILLIAM SHAKESPEARE</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el017.png"
   },
   {
     "tag": "hr",
@@ -2237,8 +2253,8 @@
     "innerHtml": "When Shakespeare was about fourteen years old his father lost his little property and fell into debt, and the boy probably left school to help support the family of younger children. What occupation he followed for the next eight years is a matter of conjecture. From evidence found in his plays, it is alleged with some show of authority that he was a country schoolmaster and a lawyer's clerk, the character of Holofernes, in <em>Love's Labour's Lost</em>, being the warrant for one, and Shakespeare's knowledge of law terms for the other. But if we take such evidence, then Shakespeare must have been a botanist, because of his knowledge of wild flowers; a sailor, because he knows the ropes; a courtier, because of his extraordinary facility in quips and compliments and courtly language; a clown, because none other is so dull and foolish; a king, because Richard and Henry are true to life; a woman, because he has sounded the depths of a woman's feelings; and surely a Roman, because in <em>Coriolanus</em> and <em>Julius Cæsar</em> he has shown us the Roman spirit better than have the Roman writers themselves. He was everything, in his imagination, and it is impossible from a study of his scenes and characters to form a definite opinion as to his early occupation."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el018.png\">Illustration: ANNE HATHAWAY COTTAGE</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el018.png"
   },
   {
     "tag": "hr",
@@ -2265,8 +2281,8 @@
     "innerHtml": "Shakespeare's first work may well have been that of a general helper, an odd-job man, about the theater; but he soon became an actor, and the records of the old London theaters show that in the next ten years he gained a prominent place, though there is little reason to believe that he was counted among the \"stars.\" Within two years he was at work on plays, and his course here was exactly like that of other playwrights of his time. He worked with other men, and he revised old plays before writing his own, and so gained a practical knowledge of his art. <em>Henry VI</em> (<em>c</em>. 1590-1591) is an example of this tinkering work, in which, however, his native power is unmistakably manifest. The three parts of <em>Henry VI</em> (and <em>Richard III</em>, which belongs with them) are a succession of scenes from English Chronicle history strung together very loosely; and only in the last is there any definite attempt at unity. That he soon fell under Marlowe's influence is evident from the atrocities and bombast of <em>Titus Andronicus</em> and <em>Richard III</em>. The former may have been written by both playwrights in collaboration, or may be one of Marlowe's horrors left unfinished by his early death and brought to an end by Shakespeare. He soon broke away from this apprentice work, and then appeared in rapid succession <em>Love's Labour's Lost, Comedy of Errors, Two Gentlemen of Verona</em>, the first English Chronicle plays, <em>A Midsummer Night's Dream</em>, and <em>Romeo and Juliet</em>. This order is more or less conjectural; but the wide variety of these plays, as well as their unevenness and frequent crudities, marks the first or experimental stage of Shakespeare's work. It is as if the author were trying his power, or more likely trying the temper of his audience. For it must be remembered that to please his audience was probably the ruling motive of Shakespeare, as of the other early dramatists, during the most vigorous and prolific period of his career."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el019.png\">Illustration: BIRTHPLACE OF SHAKESPEARE</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el019.png"
   },
   {
     "tag": "hr",
@@ -2285,8 +2301,8 @@
     "innerHtml": "Following his experimental work there came a succession of wonderful plays,—<em>Merchant of Venice, As You Like It, Twelfth Night, Julius Cæsar, Hamlet, Macbeth, Othello, King Lear, Antony and Cleopatra</em>. The great tragedies of this period are associated with a period of gloom and sorrow in the poet's life; but of its cause we have no knowledge. It may have been this unknown sorrow which turned his thoughts back to Stratford and caused, apparently, a dissatisfaction with his work and profession; but the latter is generally attributed to other causes. Actors and playwrights were in his day generally looked upon with suspicion or contempt; and Shakespeare, even in the midst of success, seems to have looked forward to the time when he could retire to Stratford to live the life of a farmer and country gentleman. His own and his father's families were first released from debt; then, in 1597, he bought New Place, the finest house in Stratford, and soon added a tract of farming land to complete his estate. His profession may have prevented his acquiring the title of \"gentleman,\" or he may have only followed a custom of the time when he applied for and obtained a coat of arms for his father, and so indirectly secured the title by inheritance. His home visits grew more and more frequent till, about the year 1611, he left London and retired permanently to Stratford."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el020.png\">Illustration:\nTRINITY CHURCH, STRATFORD-ON-AVON</a><br>TRINITY CHURCH, STRATFORD-ON-AVON"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el020.png"
   },
   {
     "tag": "p",
@@ -2333,8 +2349,8 @@
     "innerHtml": "Fourth Period, Late Experiment. <em>Coriolanus, Pericles</em>, 1608; <em>Cymbeline</em>, 1609; <em>Winter's Tale</em>, 1610-1611; <em>The Tempest</em>, 1611; <em>Henry VIII</em> (unfinished)."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/%7B0185%7D.jpg\">{0185}</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/%7B0185%7D.jpg"
   },
   {
     "tag": "ul",
@@ -2345,8 +2361,8 @@
     }
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el021.png\">Illustration:\nProperty of the Metropolitan Museum of Art PORTIA After the portrait by\nJohn Everett Millais</a><br>Property of the Metropolitan Museum of Art PORTIA After the portrait by John Everett Millais"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el021.png"
   },
   {
     "tag": "p",
@@ -2407,7 +2423,11 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<p>His life was gentle, and the elements<br>So mixed in him, that Nature might stand up<br>And say to all the world, \"This was a man!\"<br><a href=\"images/el022.png\">Illustration:\nAMERICAN MEMORIAL WINDOW IN THE CHURCH OF THE HOLY TRINITY,\nSTRATFORD-ON-AVON</a><br>AMERICAN MEMORIAL WINDOW IN THE CHURCH OF THE HOLY TRINITY, STRATFORD-ON-AVON</p>"
+    "innerHtml": "<p>His life was gentle, and the elements<br>So mixed in him, that Nature might stand up<br>And say to all the world, \"This was a man!\"  </p>"
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el022.png"
   },
   {
     "tag": "hr",
@@ -2438,8 +2458,8 @@
     "innerHtml": "Personally Jonson is the most commanding literary figure among the Elizabethans. For twenty-five years he was the literary dictator of London, the chief of all the wits that gathered nightly at the old Devil Tavern. With his great learning, his ability, and his commanding position as poet laureate, he set himself squarely against his contemporaries and the romantic tendency of the age. For two things he fought bravely,—to restore the classic form of the drama, and to keep the stage from its downward course. Apparently he failed; the romantic school fixed its hold more strongly than ever; the stage went swiftly to an end as sad as that of the early dramatists. Nevertheless his influence lived and grew more powerful till, aided largely by French influence, it resulted in the so-called classicism of the eighteenth century."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/%7B9194%7D.jpg\">{9194}</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/%7B9194%7D.jpg"
   },
   {
     "tag": "ul",
@@ -2450,8 +2470,8 @@
     }
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el023.png\">Illustration: BEN\nJONSON</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el023.png"
   },
   {
     "tag": "hr",
@@ -3172,8 +3192,8 @@
     "innerHtml": "From childhood Milton's parents set him apart for the attainment of noble ends, and so left nothing to chance in the matter of training. His father, John Milton, is said to have turned Puritan while a student at Oxford and to have been disinherited by his family; whereupon he settled in London and prospered greatly as a scrivener, that is, a kind of notary. In character the elder Milton was a rare combination of scholar and business man, a radical Puritan in politics and religion, yet a musician, whose hymn tunes are still sung, and a lover of art and literature. The poet's mother was a woman of refinement and social grace, with a deep interest in religion and in local charities. So the boy grew up in a home which combined the culture of the Renaissance with the piety and moral strength of early Puritanism. He begins, therefore, as the heir of one great age and the prophet of another."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el024.jpg\">Illustration: JOHN MILTON</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el024.jpg"
   },
   {
     "tag": "hr",
@@ -3348,8 +3368,8 @@
     "innerHtml": "As there is but one poet great enough to express the Puritan spirit, so there is but one commanding prose writer, John Bunyan. Milton was the child of the Renaissance, inheritor of all its culture, and the most profoundly educated man of his age. Bunyan was a poor, uneducated tinker. From the Renaissance he inherited nothing; but from the Reformation he received an excess of that spiritual independence which had caused the Puritan struggle for liberty. These two men, representing the extremes of English life in the seventeenth century, wrote the two works that stand to-day for the mighty Puritan spirit. One gave us the only epic since <em>Beowulf</em>; the other gave us our only great allegory, which has been read more than any other book in our language save the Bible."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el025.png\">Illustration: JOHN BUNYAN</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el025.png"
   },
   {
     "tag": "hr",
@@ -3777,8 +3797,8 @@
     "innerHtml": "This poem made Dryden well known, and he was in a fair way to become the new poet of Puritanism when the Restoration made a complete change in his methods. He had come to London for a literary life, and when the Royalists were again in power he placed himself promptly on the winning side. His \"Astraea Redux,\" a poem of welcome to Charles II, and his \"Panegyric to his Sacred Majesty,\" breathe more devotion to \"the old goat,\" as the king was known to his courtiers, than had his earlier poems to Puritanism."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el026.png\">Illustration: LIBRARY\nAT TRINITY COLLEGE, CAMBRIDGE </a><br>LIBRARY AT TRINITY COLLEGE, CAMBRIDGE"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el026.png"
   },
   {
     "tag": "p",
@@ -3821,8 +3841,8 @@
     "innerHtml": "Prose and CriticismAs a prose writer Dryden had a very marked influence on our literature in shortening his sentences, and especially in writing naturally, without depending on literary ornamentation to give effect to what he is saying. If we compare his prose with that of Milton, or Browne, or Jeremy Taylor, we note that Dryden cares less for style than any of the others, but takes more pains to state his thought clearly and concisely, as men speak when they wish to be understood. The classical school, which followed the Restoration, looked to Dryden as a leader, and to him we owe largely that tendency to exactness of expression which marks our subsequent prose writing. With his prose, Dryden rapidly developed his critical ability, and became the foremost critic of his age. His criticisms, instead of being published as independent works, were generally used as prefaces or introductions to his poetry. The best known of these criticisms are the preface to the <em>Fables</em>, \"Of Heroic Plays,\" \"Discourse on Satire,\" and especially the \"Essay of Dramatic Poesy\" (1668), which attempts to lay a foundation for all literary criticism."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el027.png\">Illustration:\nWESTMINSTER</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el027.png"
   },
   {
     "tag": "hr",
@@ -4122,8 +4142,8 @@
     "innerHtml": "In each of Marlowe's tragedies we have the picture of a man dominated by a single passion, the lust of power for its own sake. In each we see that a powerful man without self-control is like a dangerous instrument in the hands of a child; and the tragedy ends in the destruction of the man by the ungoverned power which he possesses. The life of Swift is just such a living tragedy. He had the power of gaining wealth, like the hero of the <em>Jew of Malta</em>; yet he used it scornfully, and in sad irony left what remained to him of a large property to found a hospital for lunatics. By hard work he won enormous literary power, and used it to satirize our common humanity. He wrested political power from the hands of the Tories, and used it to insult the very men who had helped him, and who held his fate in their hands. By his dominant personality he exercised a curious power over women, and used it brutally to make them feel their inferiority. Being loved supremely by two good women, he brought sorrow and death to both, and endless misery to himself. So his power brought always tragedy in its wake. It is only when we remember his life of struggle and disappointment and bitterness that we can appreciate the personal quality in his satire, and perhaps find some sympathy for this greatest genius of all the Augustan writers."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el028.png\">Illustration: JONATHAN SWIFT</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el028.png"
   },
   {
     "tag": "hr",
@@ -4154,8 +4174,8 @@
     "innerHtml": "Mr. Secretary told me the Duke of Buckingham had been talking much about me and desired my acquaintance. I answered it could not be, for he had not yet made sufficient advances; then Shrewsbury said he thought the Duke was not used to make advances. I said I could not help that, for I always expected advances in proportion to men's quality, and more from a Duke than any other man."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el029.png\">Illustration: TRINITY COLLEGE, DUBLIN</a><br>TRINITY COLLEGE, DUBLIN"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el029.png"
   },
   {
     "tag": "p",
@@ -4238,8 +4258,8 @@
     "innerHtml": "In the pleasant art of living with one's fellows, Addison is easily a master. It is due to his perfect expression of that art, of that new social life which, as we have noted, was characteristic of the Age of Anne, that Addison occupies such a large place in the history of literature. Of less power and originality than Swift, he nevertheless wields, and deserves to wield, a more lasting influence. Swift is the storm, roaring against the ice and frost of the late spring of English life. Addison is the sunshine, which melts the ice and dries the mud and makes the earth thrill with light and hope. Like Swift, he despised shams, but unlike him, he never lost faith in humanity; and in all his satires there is a gentle kindliness which makes one think better of his fellow-men, even while he laughs at their little vanities."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el030.png\">Illustration: JOSEPH ADDISON</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el030.png"
   },
   {
     "tag": "hr",
@@ -4343,12 +4363,12 @@
     "innerHtml": "SAMUEL JOHNSON (1709-1784)"
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el031.png\">Illustration:\nSamuel Johnson</a><br>Samuel Johnson"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el031.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/%7B8323%7D.jpg\">{8323} </a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/%7B8323%7D.jpg"
   },
   {
     "tag": "p",
@@ -4499,12 +4519,12 @@
     }
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/%7B0335%7D.jpg\">{0335}</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/%7B0335%7D.jpg"
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el032.png\">Illustration: Edmund\nBurke—From an old print</a><br>Edmund Burke—From an old print"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el032.png"
   },
   {
     "tag": "p",
@@ -4595,8 +4615,8 @@
     "innerHtml": "<pre><code>                              My ear is pained,  </code></pre>\n<p>My soul is sick with every day's report<br>Of wrong and outrage with which earth is filled.<br>There is no flesh in man's obdurate heart,<br>It does not feel for man.<br>This sympathy for the poor, and this cry against oppression, grew stronger and stronger till it culminated in \"Bobby\" Burns, who, more than any other writer in any language, is the poet of the unlettered human heart.</p>"
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/%7B8359%7D.jpg\">{8359} </a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/%7B8359%7D.jpg"
   },
   {
     "tag": "p",
@@ -4627,8 +4647,8 @@
     }
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el033.jpg\">Illustration: THOMAS GRAY</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el033.jpg"
   },
   {
     "tag": "hr",
@@ -4647,8 +4667,8 @@
     "innerHtml": "On his return to England, Gray lived for a short time at Stoke Poges, where he wrote his \"Ode on Eton,\" and probably sketched his \"Elegy,\" which, however, was not finished till 1750, eight years later. During the latter years of his shy and scholarly life he was Professor of Modern History and Languages at Cambridge, without any troublesome work of lecturing to students. Here he gave himself up to study and to poetry, varying his work by \"prowlings\" among the manuscripts of the new British Museum, and by his \"Lilliputian\" travels in England and Scotland. He died in his rooms at Pembroke College in 1771, and was buried in the little churchyard of Stoke Poges."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el034.png\">Illustration: CHURCH AT STOKE POGES</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el034.png"
   },
   {
     "tag": "hr",
@@ -4683,8 +4703,8 @@
     "innerHtml": "OLIVER GOLDSMITH (1728-1774)"
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el035.png\">Illustration: OLIVER GOLDSMITH</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el035.png"
   },
   {
     "tag": "hr",
@@ -4755,8 +4775,8 @@
     "innerHtml": "In Cowper we have another interesting poet, who, like Gray and Goldsmith, shows the struggle between romantic and classic ideals. In his first volume of poems, Cowper is more hampered by literary fashions than was Goldsmith in his <em>Traveller</em> and his <em>Deserted Village</em>. In his second period, however, Cowper uses blank verse freely; and his delight in nature and in homely characters, like the teamster and the mail carrier of <em>The Task</em>, shows that his classicism is being rapidly thawed out by romantic feeling. In his later work, especially his immortal \"John Gilpin,\" Cowper flings fashions aside, gives Pegasus the reins, takes to the open road, and so proves himself a worthy predecessor of Burns, who is the most spontaneous and the most interesting of all the early romanticists."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el036.jpg\">Illustration: WILLIAM COWPER</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el036.jpg"
   },
   {
     "tag": "hr",
@@ -4804,7 +4824,11 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<p>Give me ae spark o' Nature's fire,<br>That's a' the learning I desire;<br>Then, though I trudge thro' dub an' mire<br>              At pleugh or cart,<br>My Muse, though hamely in attire,<br>              May touch the heart.<br><a href=\"images/el037.png\">Illustration:\nROBERT BURNS</a>  </p>"
+    "innerHtml": "<p>Give me ae spark o' Nature's fire,<br>That's a' the learning I desire;<br>Then, though I trudge thro' dub an' mire<br>              At pleugh or cart,<br>My Muse, though hamely in attire,<br>              May touch the heart.  </p>"
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el037.png"
   },
   {
     "tag": "hr",
@@ -4835,12 +4859,12 @@
     "innerHtml": "A most unfortunate change in Burns's life began when he left the farm, at seventeen, and went to Kirkoswald to study surveying. The town was the haunt of smugglers, rough-living, hard-drinking men; and Burns speedily found his way into those scenes of \"riot and roaring dissipation\" which were his bane ever afterwards. For a little while he studied diligently, but one day, while taking the altitude of the sun, he saw a pretty girl in the neighboring garden, and love put trigonometry to flight. Soon he gave up his work and wandered back to the farm and poverty again."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/%7B0361%7D.jpg\">{0361}</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/%7B0361%7D.jpg"
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el038.png\">Illustration:\nBIRTHPLACE OF BURNS</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el038.png"
   },
   {
     "tag": "hr",
@@ -4891,12 +4915,12 @@
     "innerHtml": "Of his poems of emotion there is an immense number. It is a curious fact that the world is always laughing and crying at the same moment; and we can hardly read a page of Burns without finding this natural juxtaposition of smiles and tears. It is noteworthy also that all strong emotions, when expressed naturally, lend themselves to poetry; and Burns, more than any other writer, has an astonishing faculty of describing his own emotions with vividness and simplicity, so that they appeal instantly to our own. One cannot read, \"I love my Jean,\" for instance, without being in love with some idealized woman; or \"To Mary in Heaven,\" without sharing the personal grief of one who has loved and lost."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/%7B0365%7D.jpg\">{0365}</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/%7B0365%7D.jpg"
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration: THE AULD BRIG, AYR (AYR\nBRIDGE) \nTHE AULD BRIG, AYR (AYR BRIDGE)"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/%7B0365%7D.jpg"
   },
   {
     "tag": "p",
@@ -5067,8 +5091,8 @@
     "innerHtml": "To Defoe is often given the credit for the discovery of the modern novel; but whether or not he deserves that honor is an open question. Even a casual reading of <em>Robinson Crusoe</em> (1719), which generally heads the list of modern fiction, shows that this exciting tale is largely an adventure story, rather than the study of human character which Defoe probably intended it to be. Young people still read it as they might a dime novel, skipping its moralizing passages and hurrying on to more adventures; but they seldom appreciate the excellent mature reasons which banish the dime novel to a secret place in the haymow, while <em>Crusoe</em> hangs proudly on the Christmas tree or holds an honored place on the family bookshelf. Defoe's <em>Apparition of Mrs. Veal, Memoirs of a Cavalier</em>, and <em>Journal of the Plague Year</em> are such mixtures of fact, fiction, and credulity that they defy classification; while other so-called \"novels,\" like <em>Captain Singleton, Moll Flanders</em>, and <em>Roxana</em>, are but, little better than picaresque stories, with a deal of unnatural moralizing and repentance added for puritanical effect. In <em>Crusoe</em>, Defoe brought the realistic adventure story to a very high stage of its development; but his works hardly deserve, to be classed as true novels, which must subordinate incident to the faithful portrayal of human life and character."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el040.jpg\">Illustration: DANIEL DEFOE</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el040.jpg"
   },
   {
     "tag": "hr",
@@ -5561,8 +5585,8 @@
     "innerHtml": "Women as NovelistsIt was during this period that woman assumed, for the first time, an important place in our literature. Probably the chief reason for this interesting phenomenon lies in the fact that woman was for the first time given some slight chance of education, of entering into the intellectual life of the race; and as is always the case when woman is given anything like a fair opportunity she responded magnificently. A secondary reason may be found in the nature of the age itself, which was intensely emotional. The French Revolution stirred all Europe to its depths, and during the following half century every great movement in literature, as in politics and religion, was characterized by strong emotion; which is all the more noticeable by contrast with the cold, formal, satiric spirit of the early eighteenth century. As woman is naturally more emotional than man, it may well be that the spirit of this emotional age attracted her, and gave her the opportunity to express herself in literature."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/%7B0497%7D.jpg\">{0497}</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/%7B0497%7D.jpg"
   },
   {
     "tag": "p",
@@ -5589,8 +5613,8 @@
     "innerHtml": "WILLIAM WORDSWORTH (1770-1850)"
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el041.png\">Illustration: WILLIAM WORDSWORTH</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el041.png"
   },
   {
     "tag": "hr",
@@ -5649,8 +5673,8 @@
     "innerHtml": "Such is the brief outward record of the world's greatest interpreter of nature's message; and only one who is acquainted with both nature and the poet can realize how inadequate is any biography; for the best thing about Wordsworth must always remain unsaid. It is a comfort to know that his life, noble, sincere, \"heroically happy,\" never contradicted his message. Poetry was his life; his soul was in all his work; and only by reading what he has written can we understand the man."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el042.png\">Illustration: WORDSWORTH'S HOME AT RYDAL\nMOUNT</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el042.png"
   },
   {
     "tag": "hr",
@@ -5729,8 +5753,8 @@
     }
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el043.jpg\">Illustration: SAMUEL TAYLOR COLERIDGE</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el043.jpg"
   },
   {
     "tag": "hr",
@@ -5797,8 +5821,8 @@
     "innerHtml": "Works of SoutheySouthey gradually surrounded himself with one of the most extensive libraries in England, and set himself to the task of of writing something every working day. The results of his industry were one hundred and nine volumes, besides some hundred and fifty articles for the magazines, most of which are now utterly forgotten. His most ambitious poems are <em>Thalaba</em>, a tale of Arabian enchantment; <em>The Curse of Kehama</em>, a medley of Hindoo mythology; <em>Madoc</em>, a legend of a Welsh prince who discovered the western world; and <em>Roderick</em>, a tale of the last of the Goths. All these, and many more, although containing some excellent passages, are on the whole exaggerated and unreal, both in manner and in matter. Southey wrote far better prose than poetry, and his admirable <em>Life of Nelson</em> is still often read. Besides these are his <em>Lives of British Admirals</em>, his lives of Cowper and Wesley, and his histories of Brazil and of the Peninsular War."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el044.jpg\">Illustration: ROBERT SOUTHEY</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el044.jpg"
   },
   {
     "tag": "hr",
@@ -5845,8 +5869,8 @@
     "innerHtml": "Scott's literary work began with the translation from the German of Bürger's romantic ballad of <em>Lenore</em> (1796) and of Goethe's <em>Götz von Berlichingen</em> (1799); but there was romance enough in his own loved Highlands, and in 1802-1803 appeared three volumes of his <em>Minstrelsy of the Scottish Border</em>, which he had been collecting for many years. In 1805, when Scott was 34 years old, appeared his first original work, <em>The Lay of the Last Minstrel</em>. Its success was immediate, and when <em>Marmion</em> (1808) and <em>The Lady of the Lake</em> (1810) aroused Scotland and England to intense enthusiasm, and brought unexpected fame to the author,—without in the least spoiling his honest and lovable nature,—Scott gladly resolved to abandon the law, in which he had won scant success, and give himself wholly to literature. Unfortunately, however, in order to increase his earnings, he entered secretly into partnership with the firms of Constable and the brothers Ballantyne, as printer-publishers,—a sad mistake, indeed, and the cause of that tragedy which closed the life of Scotland's greatest writer."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el045.jpg\">Illustration: WALTER SCOTT</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el045.jpg"
   },
   {
     "tag": "hr",
@@ -5869,8 +5893,8 @@
     "innerHtml": "During the seventeen years which followed the appearance of <em>Waverley</em>, Scott wrote on an average nearly two novels per year, creating an unusual number of characters and illustrating many periods of Scotch, English, and French history, from the time of the Crusades to the fall of the Stuarts. In addition to these historical novels, he wrote <em>Tales of a Grandfather, Demonology and Witchcraft</em>, biographies of Dryden and of Swift, the <em>Life of Napoleon</em>, in nine volumes, and a large number of articles for the reviews and magazines. It was an extraordinary amount of literary work, but it was not quite so rapid and spontaneous as it seemed. He had been very diligent in looking up old records, and we must remember that, in nearly all his poems and novels, Scott was drawing upon a fund of legend, tradition, history, and poetry, which he had been gathering for forty years, and which his memory enabled him to produce at will with almost the accuracy of an encyclopedia."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el046.png\">Illustration:\nABBOTSFORD</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el046.png"
   },
   {
     "tag": "hr",
@@ -5957,8 +5981,8 @@
     "innerHtml": "At school at Harrow, and in the university at Cambridge, Byron led an unbalanced life, and was more given to certain sports from which he was not debarred by lameness, than to books and study. His school life, like his infancy, is sadly marked by vanity, violence, and rebellion against every form of authority; yet it was not without its hours of nobility and generosity. Scott describes him as \"a man of real goodness of heart, and the kindest and best feelings, miserably thrown away by his foolish contempt of public opinion.\" While at Cambridge, Byron published his first volume of poems, <em>Hours of Idleness</em>, in 1807. A severe criticism of the volume in the <em>Edinburgh Review</em> wounded Byron's vanity, and threw him into a violent passion, the result of which was the now famous satire called <em>English Bards and Scotch Reviewers</em>, in which not only his enemies, but also Scott, Wordsworth, and nearly all the literary men of his day, were satirized in heroic couplets after the manner of Pope's <em>Dunciad</em>. It is only just to say that he afterwards made friends with Scott and with others whom he had abused without provocation; and it is interesting to note, in view of his own romantic poetry, that he denounced all masters of romance and accepted the artificial standards of Pope and Dryden. His two favorite books were the Old Testament and a volume of Pope's poetry. Of the latter he says, \"His is the greatest name in poetry ... all the rest are barbarians.\""
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el047.jpg\">Illustration: GEORGE GORDON, LORD BYRON</a><br>GEORGE GORDON, LORD BYRON"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el047.jpg"
   },
   {
     "tag": "p",
@@ -5994,7 +6018,11 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<p>Make me thy lyre, even as the forest is:<br>    What if my leaves are falling like its own!  \nThe tumult of thy mighty harmonies<br>    Will take from both a deep, autumnal tone,<br>Sweet though in sadness. Be thou, spirit fierce,<br>    My spirit! Be thou me, impetuous one!  \n<a href=\"images/el048.png\">Illustration:\nPERCY BYSSHE SHELLEY</a>  </p>"
+    "innerHtml": "<p>Make me thy lyre, even as the forest is:<br>    What if my leaves are falling like its own!  \nThe tumult of thy mighty harmonies<br>    Will take from both a deep, autumnal tone,<br>Sweet though in sadness. Be thou, spirit fierce,<br>    My spirit! Be thou me, impetuous one!  </p>"
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el048.png"
   },
   {
     "tag": "hr",
@@ -6133,8 +6161,8 @@
     "innerHtml": "It is by his short poems that Keats is known to the majority of present-day readers. Among these exquisite shorter poems we mention only the four odes, \"On a Grecian Urn,\" \"To a Nightingale,\" \"To Autumn,\" and \"To Psyche.\" These are like an invitation to a feast; one who reads them will hardly be satisfied until he knows more of such delightful poetry. Those who study only the \"Ode to a Nightingale\" may find four things,—a love of account, when he paused in the crowded street tears would spring to his eyes,—tears of pure pleasure at the abundance of so much good life; and when he wrote, he simply interpreted that crowded human life of joy and sorrow, as Wordsworth interpreted the woods and waters, without any desire to change or to reform them. He has given us the best pictures we possess of Coleridge, Hazlitt, Landor, Hood, Cowden Clarke, and many more of the interesting men and women of his age; and it is due to his insight and sympathy that the life of those far-off days seems almost as real to us as if we ourselves remembered it. Of all our English essayists he is the most lovable; partly because of his delicate, old-fashioned style and humor, but more because of that cheery and heroic struggle against misfortune which shines like a subdued light in all his writings."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el049.png\">Illustration: CHARLES LAMB</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el049.png"
   },
   {
     "tag": "hr",
@@ -6153,8 +6181,8 @@
     }
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el050.png\">Illustration: CHRIST'S HOSPITAL, LONDON</a><br>CHRIST'S HOSPITAL, LONDON"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el050.png"
   },
   {
     "tag": "p",
@@ -6197,8 +6225,8 @@
     }
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el051.png\">Illustration: THOMAS\nDE QUINCEY</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el051.png"
   },
   {
     "tag": "hr",
@@ -6605,8 +6633,8 @@
     "innerHtml": "Tennyson was born in the rectory of Somersby, Lincolnshire, in 1809. The sweet influences of his early natural surroundings can be better understood from his early poems than from any biography. He was one of the twelve children of the Rev. George Clayton Tennyson, a scholarly clergyman, and his wife Elizabeth Fytche, a gentle, lovable woman, \"not learned, save in gracious household ways,\" to whom the poet pays a son's loyal tribute near the close of <em>The Princess</em>. It is interesting to note that most of these children were poetically inclined, and that two of the brothers, Charles and Frederick, gave far greater promise than did Alfred."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el052.png\">Illustration: ALFRED\nTENNYSON After the portrait by George Frederic Watts</a><br>ALFRED TENNYSON After the portrait by George Frederic Watts"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el052.png"
   },
   {
     "tag": "p",
@@ -6661,8 +6689,8 @@
     "innerHtml": "In MemoriamPerhaps the most loved of all Tennyson's works is <em>In Memoriam</em>, which, on account of both its theme and its exquisite workmanship, is \"one of the few immortal names that were not born to die.\" The immediate occasion of this remarkable poem was Tennyson's profound personal grief at the death of his friend Hallam. As he wrote lyric after lyric, inspired by this sad subject, the poet's grief became less personal, and the greater grief of humanity mourning for its dead and questioning its immortality took possession of him. Gradually the poem became an expression, first, of universal doubt, and then of universal faith, a faith which rests ultimately not on reason or philosophy but on the soul's instinct for immortality. The immortality of human love is the theme of the poem, which is made up of over one hundred different lyrics. The movement takes us through three years, rising slowly from poignant sorrow and doubt to a calm peace and hope, and ending with a noble hymn of courage and faith,—a modest courage and a humble faith, love-inspired,—which will be a favorite as long as saddened men turn to literature for consolation. Though Darwin's greatest books had not yet been written, science had already overturned many old conceptions of life; and Tennyson, who lived apart and thought deeply on all the problems of his day, gave this poem to the world as his own answer to the doubts and questionings of men. This universal human interest, together with its exquisite form and melody, makes the poem, in popular favor at least, the supreme threnody, or elegiac poem, of our literature; though Milton's <em>Lycidas</em> is, from the critical view point, undoubtedly a more artistic work."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el053.jpg\">Illustration: Sir Galahad</a><br>Sir Galahad"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el053.jpg"
   },
   {
     "tag": "p",
@@ -6706,15 +6734,19 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<p>Thoughts hardly to be packed<br>Into a narrow act,<br>Fancies that broke through language and escaped.<br><a href=\"images/%7B9510%7D.jpg\">{9510}</a>  </p>"
+    "innerHtml": "<p>Thoughts hardly to be packed<br>Into a narrow act,<br>Fancies that broke through language and escaped.  </p>"
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/%7B9510%7D.jpg"
   },
   {
     "tag": "p",
     "innerHtml": "Browning's ObscuritySecond, Browning is led from one thing to another by his own mental associations, and forgets that the reader's associations may be of an entirely different kind. Third, Browning is careless in his English, and frequently clips his speech, giving us a series of ejaculations. As we do not quite understand his processes of thought, we must stop between the ejaculations to trace out the connections. Fourth, Browning's, allusions are often far-fetched, referring to some odd scrap of information which he has picked up in his wide reading, and the ordinary reader finds it difficult to trace and understand them. Finally, Browning wrote too much and revised too Little. The time which he should have given to making one thought clear was used in expressing other thoughts that flitted through his head like a flock of swallows. His field was the individual soul, never exactly alike in any two men, and he sought to express the hidden motives and principles which govern individual action. In this field he is like a miner delving underground, sending up masses of mingled earth and ore; and the reader must sift all this material to separate the gold from the dross."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el054.png\">Illustration: Robert\nBrowning</a><br>Robert Browning"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el054.png"
   },
   {
     "tag": "p",
@@ -6833,8 +6865,8 @@
     "innerHtml": "<p>How do I love thee? Let me count the ways.<br>I love thee to the depth and breadth and height<br>My soul can reach, when feeling out of sight<br>For the ends of Being and ideal Grace.<br>I love thee to the level of everyday's<br>Most quiet need, by sun and candlelight.<br>I love thee freely, as men strive for Right;<br>I love thee purely, as they turn from Praise;<br>I love thee with the passion put to use<br>In my old griefs, and with my childhood's faith;<br>I love thee with a love I seemed to lose<br>With my lost saints—I love thee with the breath,<br>Smiles, tears, of all my life!—and, if God choose,<br>I shall but love thee better after death.<br>Mrs. Browning entered with whole-souled enthusiasm into the aspirations of Italy in its struggle against the tyranny of Austria; and her <em>Casa Guidi Windows</em> (1851) is a combination of poetry and politics, both, it must be confessed, a little too emotional. In 1856 she published <em>Aurora Leigh</em>, a novel in verse, having for its hero a young social reformer, and for its heroine a young woman, poetical and enthusiastic, who strongly suggests Elizabeth Barrett herself. It emphasizes in verse precisely the same moral and social ideals which Dickens and George Eliot were proclaiming in all their novels. Her last two volumes were <em>Poems before Congress</em> (1860), and <em>Last Poems</em>, published after her death. She died suddenly in 1861 and was buried in Florence. Browning's famous line, \"O lyric love, half angel and half bird,\" may well apply to her frail life and aerial spirit.</p>"
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el055.jpg\">Illustration: MRS. BROWNING</a><br>MRS. BROWNING"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el055.jpg"
   },
   {
     "tag": "ul",
@@ -6894,8 +6926,8 @@
     "innerHtml": "At eleven years of age the boy was taken out of school and went to work in the cellar of a blacking factory. At this time he was, in his own words, a \"queer small boy,\" who suffered as he worked; and we can appreciate the boy and the suffering more when we find both reflected in the character of David Copperfield. It is a heart-rending picture, this sensitive child working from dawn till dark for a few pennies, and associating with toughs and waifs in his brief intervals of labor; but we can see in it the sources of that intimate knowledge of the hearts of the poor and outcast which was soon to be reflected in literature and to startle all England by its appeal for sympathy. A small legacy ended this wretchedness, bringing the father from the prison and sending the boy to Wellington House Academy,—a worthless and brutal school, evidently, whose head master was, in Dickens's words, a most ignorant fellow and a tyrant. He learned little at this place, being interested chiefly in stories, and in acting out the heroic parts which appealed to his imagination; but again his personal experience was of immense value, and resulted in his famous picture of Dotheboys Hall, in <em>Nicholas Nickleby</em>, which helped largely to mitigate the evils of private schools in England. Wherever he went, Dickens was a marvelously keen observer, with an active imagination which made stories out of incidents and characters that ordinary men would have hardly noticed. Moreover he was a born actor, and was at one time the leading spirit of a band of amateurs who gave entertainments for charity all over England. These three things, his keen observation, his active imagination, and the actor's spirit which animated him, furnish a key to his life and writings."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el056.png\">Illustration:\nCHARLES DICKENS After the portrait by Daniel Maclise</a><br>CHARLES DICKENS After the portrait by Daniel Maclise"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el056.png"
   },
   {
     "tag": "p",
@@ -6971,8 +7003,8 @@
     }
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el057.jpg\">Illustration: WILLIAM MAKEPEACE THACKERAY </a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el057.jpg"
   },
   {
     "tag": "hr",
@@ -7055,12 +7087,12 @@
     "innerHtml": "A few months after George Eliot's birth the family moved to another home, in the parish of Griff, where her childhood was largely passed. The scenery of the Midland counties and many details of her own family life are reflected in her earlier novels. Thus we find her and her brother, as Maggie and Tom Tulliver, in <em>The Mill on the Floss;</em> her aunt, as Dinah Morris, and her mother, as Mrs. Poyser, in <em>Adam Bede</em>. We have a suggestion of her father in the hero of the latter novel, but the picture is more fully drawn as Caleb Garth, in <em>Middlemarch</em>. For a few years she studied at two private schools for young ladies, at Nuneaton and Coventry; but the death of her mother called her, at seventeen years of age, to take entire charge of the household. Thereafter her education was gained wholly by miscellaneous reading. We have a suggestion of her method in one of her early letters, in which she says: \"My mind presents an assemblage of disjointed specimens of history, ancient and modern; scraps of poetry picked up from Shakespeare, Cowper, Wordsworth, and Milton; newspaper topics, morsels of Addison and Bacon, Latin verbs, geometry, entomology, and chemistry; reviews and metaphysics, all arrested and petrified and smothered by the fast-thickening everyday accession of actual events, relative anxieties, and household cares and vexations.\""
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/%7B9546%7D.jpg\">{9546}</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/%7B9546%7D.jpg"
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el058.png\">Illustration: MARY\nANN EVANS, GEORGE ELIOT</a><br>MARY ANN EVANS, GEORGE ELIOT"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el058.png"
   },
   {
     "tag": "p",
@@ -7192,8 +7224,8 @@
     "innerHtml": "After his college course Macaulay studied law, was admitted to the bar, devoted himself largely to politics, entered Parliament in 1830, and almost immediately won a reputation as the best debater and the most eloquent speaker, of the Liberal or Whig party. Gladstone says of him: \"Whenever he arose to speak it was a summons like a trumpet call to fill the benches.\" At the time of his election he was poor, and the loss of his father's property threw upon him the support of his brothers and sisters; but he took up the burden with cheerful courage, and by his own efforts soon placed himself and his family in comfort. His political progress was rapid, and was due not to favoritism or intrigue, but to his ability, his hard work, and his sterling character. He was several times elected to Parliament, was legal adviser to the Supreme Council of India, was a member of the cabinet, and declined many offices for which other men labor a lifetime. In 1857 his great ability and services to his country were recognized by his being raised to the peerage with the title of Baron Macaulay of Rothley."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el059.jpg\">Illustration: THOMAS BABINGTON MACAULAY</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el059.jpg"
   },
   {
     "tag": "hr",
@@ -7256,8 +7288,8 @@
     "innerHtml": "In marked contrast with Macaulay, the brilliant and cheerful essayist, is Thomas Carlyle, the prophet and censor of the nineteenth century. Macaulay is the practical man of affairs, helping and rejoicing in the progress of his beloved England. Carlyle lives apart from all practical interests, looks with distrust on the progress of his age, and tells men that truth, justice, and immortality are the only worthy objects of human endeavor. Macaulay is delighted with material comforts; he is most at home in brilliant and fashionable company; and he writes, even when ill and suffering, with unfailing hopefulness and good nature. Carlyle is like a Hebrew prophet just in from the desert, and the burden of his message is, \"Woe to them that are at ease in Zion!\" Both men are, in different ways, typical of the century, and somewhere between the two extremes—the practical, helpful activity of Macaulay and the spiritual agony and conflict of Carlyle—we shall find the measure of an age which has left the deepest impress upon our own."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/%7B0569%7D.jpg\">{0569}</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/%7B0569%7D.jpg"
   },
   {
     "tag": "ul",
@@ -7272,8 +7304,8 @@
     "innerHtml": "Of Carlyle's early school life we have some interesting glimpses in <em>Sartor Resartus</em>. At nine years he entered the Annan grammar school, where he was bullied by the older boys, who nicknamed him Tom the Tearful. For the teachers of those days he has only ridicule, calling them \"hide-bound pedants,\" and he calls the school by the suggestive German name of <em>Hinterschlag Gymnasium</em>. At the wish of his parents, who intended Carlyle for the ministry, he endured this hateful school life till 1809, when he entered Edinburgh University. There he spent five miserable years, of which his own record is: \"I was without friends, experience, or connection in the sphere of human business, was of sly humor, proud enough and to spare, and had begun my long curriculum of dyspepsia.\" This nagging illness was the cause of much of that irritability of temper which frequently led him to scold the public, and for which he has been harshly handled by unfriendly critics."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el060.jpg\">Illustration: UNIVERSITY OF EDINBURGH</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el060.jpg"
   },
   {
     "tag": "hr",
@@ -7288,8 +7320,8 @@
     "innerHtml": "The period following his university course was one of storm and stress for Carlyle. Much to the grief of the father whom he loved, he had given up the idea of entering the ministry. Wherever he turned, doubts like a thick fog surrounded him,—doubts of God, of his fellow-men, of human progress, of himself. He was poor, and to earn an honest living was his first problem. He tried successively teaching school, tutoring, the study of law, and writing miscellaneous articles for the <em>Edinburgh Encyclopedia</em>. All the while he was fighting his doubts, living, as he says, \"in a continual, indefinite, pining fear.\" After six or seven years of mental agony, which has at times a suggestion of Bunyan's spiritual struggle, the crisis came in 1821, when Carlyle suddenly shook off his doubts and found himself. \"All at once,\" he says in <em>Sartor</em>, \"there arose a thought in me, and I asked myself: 'What <em>Art</em> thou afraid of? Wherefore like a coward dost thou forever pip and whimper, and go cowering and trembling? Despicable biped! What is the sum total of the worst that lies before thee? Death? Well, Death; and say the pangs of Tophet too, and all that the Devil and Man may, will, or can do against thee! Hast thou not a heart; canst thou not suffer whatsoever it be; and, as a Child of Freedom, though outcast, trample Tophet itself under thy feet, while it consumes thee? Let it come then; I will meet it and defy it!' And as I so thought, there rushed like a stream of fire over my whole soul; and I shook base Fear away from me forever.\" This struggle between fear and faith, and the triumph of the latter, is recorded in two remarkable chapters, \"The Everlasting No\" and \"The Everlasting Yea,\" of <em>Sartor Resartus</em>."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el061.png\">Illustration: THOMAS CARLYLE After the\nportrait by James McNeill Whistler</a><br>THOMAS CARLYLE After the portrait by James McNeill Whistler"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el061.png"
   },
   {
     "tag": "p",
@@ -7380,8 +7412,8 @@
     "innerHtml": "Ruskin entered Christ Church College, Oxford, in 1836, when only seventeen years old. He was at this time a shy, sensitive boy, a lover of nature and of every art which reflects nature, but almost entirely ignorant of the ways of boys and men. An attack of consumption, with which he had long been threatened, caused him to leave Oxford in 1840, and for nearly two years he wandered over Italy searching for health and cheerfulness, and gathering materials for the first volume of <em>Modern Painters</em>, the book that made him famous."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el062.jpg\">Illustration: JOHN RUSKIN</a>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el062.jpg"
   },
   {
     "tag": "hr",
@@ -7548,8 +7580,8 @@
     "innerHtml": "At the age of fifteen Newman had begun his profound study of theological subjects. For science, literature, art, nature,—all the broad interests which attracted other literary men of his age,—he cared little, his mind being wholly occupied with the history and doctrines of the Christian church, to which he had already devoted his life. He was educated first at the school in Ealing, then at Oxford, taking his degree in the latter place in 1820. Though his college career was not more brilliant than that of many unknown men, his unusual ability was recognized and he was made a fellow of Oriel College, retaining the fellowship, and leading a scholarly life for over twenty years. In 1824 he was ordained in the Anglican church, and four years later was chosen vicar of St. Mary's, at Oxford, where his sermons made a deep impression on the cultivated audiences that gathered from far and near to hear him."
   },
   {
-    "tag": "p",
-    "innerHtml": "<a href=\"images/el063.jpg\">Illustration: QUADRANGLE OF ORIEL COLLEGE, OXFORD</a><br>QUADRANGLE OF ORIEL COLLEGE, OXFORD"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/english-literature/master/assets/images/el063.jpg"
   },
   {
     "tag": "p",
